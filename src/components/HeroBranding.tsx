@@ -13,7 +13,7 @@ const HeroBranding = () => {
 					<p>Freshly squeezed lemonade and simply delicious bubble tea, smoothies, milk/fruit teas, & more!</p>
 				</Col>
 				<Col md={6}>
-					<Image src={Image1} className="img-fluid " alt="the big squish logo" />
+					<Image src={Image1} className="hero-image" alt="the big squish logo" />
 				</Col>
 			</Row>
 		</Container>

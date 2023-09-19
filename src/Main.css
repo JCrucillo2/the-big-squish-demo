@@ -8,3 +8,17 @@
 	max-width: 100%;
 	height: auto;
 }
+
+.hero-image {
+	width: 28.125rem;
+	max-width: 100%;
+	height: auto;
+}
+
+.contact-form {
+	max-width: 31.25rem;
+}
+
+.contact-textarea-control {
+	height: 12.5rem;
+}
