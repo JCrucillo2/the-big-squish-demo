@@ -1,0 +1,10 @@
+.main-gradient {
+	background: rgb(204, 47, 119);
+	background: linear-gradient(180deg, rgba(204, 47, 119, 1) 30%, rgba(247, 174, 62, 1) 70%);
+}
+
+.footer-img-control {
+	width: 8.4375rem;
+	max-width: 100%;
+	height: auto;
+}
