@@ -25,6 +25,9 @@ const Footer = () => {
 					<Link to="contact" className="link-dark fs-4">
 						Contact
 					</Link>
+					<Link to="location" className="link-dark fs-4">
+						Location
+					</Link>
 				</div>
 
 				<div className="border-top border-dark-subtle py-4">&copy; {new Date().getFullYear()} The Big Squish Lemonade & Bubble Tea. All rights reserved.</div>
